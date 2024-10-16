@@ -1,0 +1,551 @@
+Query: aer
+Nearest neighbor-1: abt
+distanceLSH: 78.0146
+distanceTrue: 78.0146
+tLSH: 26936
+tTrue: 404
+800-near neighbors: 
+aa
+aac
+aal
+aan
+aat
+aaww
+aaxn
+ab
+abax
+abb
+abg
+abr_b
+abt
+abx
+aby
+acer
+achc
+acm
+acnb
+acxm
+adi
+adm
+adms
+adtn
+ae
+aed
+aeh
+aeis
+aek
+aem
+aep
+a
+aaoi
+aaon
+abbv
+abcb
+abco
+acet
+acls
+aee
+abrn
+abr_c
+acad
+acc
+acor
+adus
+
+Query: aeri
+Nearest neighbor-1: abcb
+distanceLSH: 259.051
+distanceTrue: 259.051
+tLSH: 28952
+tTrue: 346
+800-near neighbors: 
+aa
+aac
+aal
+aan
+aat
+aaww
+aaxn
+ab
+abax
+abb
+abdc
+abev
+abr_b
+abt
+abus
+abx
+aby
+acco
+acer
+acfc
+achv
+acm
+acnb
+acp
+acre
+acsf
+acta
+acxm
+acy
+adm
+adma
+adms
+adtn
+adxs
+ae
+aed
+aeh
+aeis
+aek
+aem
+a
+aaoi
+aaon
+aav
+abcb
+abco
+acet
+ach
+acls
+aee
+abe
+abm
+abr
+abr_a
+abr_c
+aciw
+actg
+acu
+adc
+adus
+adx
+aegn
+abrn
+achn
+acor
+aeb
+ael
+
+Query: aes
+Nearest neighbor-1: abdc
+distanceLSH: 33.7924
+distanceTrue: 33.7924
+tLSH: 31118
+tTrue: 346
+800-near neighbors: 
+aac
+aaoi
+aaon
+aat
+aau
+aav
+abcb
+abcd
+abev
+abr_b
+abus
+abx
+acer
+acet
+ach
+achv
+acls
+acrx
+acy
+adhd
+adxsw
+aed
+aeh
+aek
+aem
+aa
+aan
+aaxn
+ab
+abe
+abrn
+abr_c
+acad
+acco
+achn
+acor
+acp
+acsf
+acst
+acta
+acxm
+adms
+adus
+advm
+adx
+adxs
+aeg
+aehr
+
+Query: aet
+Nearest neighbor-1: aapl
+distanceLSH: 323.98
+distanceTrue: 323.98
+tLSH: 33039
+tTrue: 346
+800-near neighbors: 
+abmd
+adbe
+aapl
+
+Query: aeti
+Nearest neighbor-1: acst
+distanceLSH: 24.9236
+distanceTrue: 24.9236
+tLSH: 34796
+tTrue: 346
+800-near neighbors: 
+aac
+aaon
+aau
+aav
+abcd
+abev
+abr_b
+abus
+abx
+acer
+acet
+ach
+achv
+acls
+acrx
+acy
+adhd
+adxsw
+aed
+aeh
+aek
+aa
+aan
+aaxn
+ab
+abe
+abrn
+abr_c
+acco
+achn
+acor
+acp
+acsf
+acst
+acta
+acxm
+adms
+adus
+advm
+adx
+adxs
+aeg
+aehr
+
+Query: aey
+Nearest neighbor-1: aau
+distanceLSH: 28.6686
+distanceTrue: 28.6686
+tLSH: 36658
+tTrue: 359
+800-near neighbors: 
+aac
+aaon
+aau
+aav
+abcd
+abev
+abr_b
+abus
+abx
+acet
+ach
+achv
+acls
+acrx
+acy
+adhd
+adxsw
+aed
+aeh
+aek
+
+Query: aezs
+Nearest neighbor-1: advm
+distanceLSH: 192.55
+distanceTrue: 192.55
+tLSH: 38110
+tTrue: 340
+800-near neighbors: 
+aac
+aaon
+aau
+aav
+abcd
+abev
+abr_b
+abus
+abx
+acer
+acet
+ach
+achv
+acls
+acrx
+acy
+adhd
+adxsw
+aed
+aeh
+aek
+aa
+aame
+ab
+abe
+abr
+abr_a
+abr_c
+aby
+acfc
+aciw
+acnb
+acsf
+acst
+actg
+acu
+acxm
+admp
+adus
+advm
+adx
+adxs
+aeg
+aegn
+aehr
+aan
+aaxn
+abrn
+acad
+acco
+achn
+acor
+acp
+acta
+adms
+
+Query: afam
+Nearest neighbor-1: abt
+distanceLSH: 166.735
+distanceTrue: 166.735
+tLSH: 40027
+tTrue: 335
+800-near neighbors: 
+a
+aac
+aal
+aaoi
+aaon
+aat
+aaww
+abax
+abbv
+abcb
+abco
+abg
+abr_b
+abt
+acer
+acet
+acls
+aed
+aee
+aeh
+aek
+aem
+aep
+aa
+ab
+abm
+abr_a
+abr_c
+aby
+achc
+aciw
+acnb
+acu
+acxm
+adc
+adm
+adus
+aegn
+
+Query: afb
+Nearest neighbor-1: adx
+distanceLSH: 33.3724
+distanceTrue: 33.3724
+tLSH: 41366
+tTrue: 335
+800-near neighbors: 
+aa
+aac
+aan
+aat
+aau
+aaxn
+ab
+abac
+abb
+abdc
+abev
+abio
+abr_b
+abus
+abx
+aby
+acco
+acer
+acfc
+achv
+acm
+acnb
+acp
+acre
+acsf
+acta
+acxm
+acy
+adm
+adma
+adms
+adtn
+adxs
+ae
+aed
+aeh
+aehr
+aek
+aem
+aaoi
+aaon
+aav
+abcb
+abcd
+acet
+ach
+acls
+acrx
+adhd
+adxsw
+aame
+abe
+abm
+abr
+abr_a
+abr_c
+aciw
+acst
+actg
+acu
+adc
+admp
+adus
+advm
+adx
+aeg
+aegn
+abrn
+achn
+acor
+aeb
+ael
+
+Query: afc
+Nearest neighbor-1: aeh
+distanceLSH: 10.9989
+distanceTrue: 10.9989
+tLSH: 43440
+tTrue: 338
+800-near neighbors: 
+a
+aa
+aame
+aaoi
+aaon
+aat
+aau
+aav
+aaww
+ab
+abco
+abe
+abev
+abm
+abr
+abr_a
+abr_b
+abr_c
+abus
+aby
+acer
+acfc
+achv
+aciw
+acls
+acnb
+acrx
+acsf
+acst
+actg
+acu
+acxm
+adc
+adhd
+adm
+admp
+adus
+advm
+adx
+adxs
+aed
+aee
+aeg
+aegn
+aeh
+aehr
+aac
+aal
+aan
+aaxn
+abax
+abcb
+abcd
+abrn
+abx
+acad
+acc
+acco
+acet
+achn
+acor
+acp
+acta
+acy
+adms
+adxsw
+aem
+abb
+abdc
+abt
+ach
+acm
+acre
+adtn
+ae
+aeb
+aeis
+aek
+ael
+
